@@ -1,6 +1,6 @@
-# Tsinghua Search Engine
+# CNKI Search Engine
 
-> Tsinghua Search Engine
+> CNKI Search Engine
 
 ## Build Setup
 
